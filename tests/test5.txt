@@ -1,0 +1,10 @@
+add reg2 30
+mov reg0 3
+jmp korak
+not reg0
+or reg3 1023
+out reg0
+korak
+add reg1 20
+not reg3
+out reg1

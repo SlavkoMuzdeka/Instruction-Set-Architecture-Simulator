@@ -1,0 +1,9 @@
+add reg3 15
+or reg1 5
+pocetak
+add reg1 5
+out reg1
+cmp reg1 reg3
+jne pocetak
+mov reg1 1122
+out reg1

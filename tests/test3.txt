@@ -1,0 +1,8 @@
+add reg0 10
+mov reg1 1
+petlja
+add reg1 3
+out reg1
+cmp reg1 reg0
+jl petlja
+mov reg0 0

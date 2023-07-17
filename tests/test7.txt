@@ -1,0 +1,5 @@
+add reg0 35
+mov [0x11] reg0
+add reg0 [0x11]
+mov [reg0] 43
+mov [0x11] [reg0]

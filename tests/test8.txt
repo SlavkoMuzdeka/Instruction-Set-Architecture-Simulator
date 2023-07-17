@@ -1,0 +1,7 @@
+add reg0 16
+mov [0x10] 3
+mov [reg0] 4
+mov reg1 22
+mov [reg1] 33
+mov [22] 30
+mov [0x12] [reg1]

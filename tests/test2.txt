@@ -1,0 +1,8 @@
+in reg0
+out reg0
+mov reg2 2047
+add reg1 1023
+not reg1
+out reg1
+or reg2 reg1
+out reg2

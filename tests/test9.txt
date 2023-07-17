@@ -1,0 +1,6 @@
+mov reg0 34
+add reg3 reg0
+mov [13] reg3
+sub reg1 [0xd]
+mov [0xeee] 126
+mov [25] [0xeee]

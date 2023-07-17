@@ -1,0 +1,8 @@
+mov reg0 5
+mov reg1 10
+debuging
+mov reg2 reg0
+add reg0 reg1
+mov reg3 reg0
+debuging
+mov reg0 255

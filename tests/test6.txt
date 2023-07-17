@@ -1,0 +1,7 @@
+mov [0xe] 13
+add reg1 [14]
+mov [0xc] [0xe]
+mov reg3 [0xc]
+add reg1 20
+mov [25] reg1
+out reg1

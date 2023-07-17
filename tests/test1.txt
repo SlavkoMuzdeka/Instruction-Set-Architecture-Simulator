@@ -1,0 +1,7 @@
+add reg0 63
+add reg1 10
+add reg0 reg1
+sub reg0 75
+not reg0
+or reg3 255
+out reg0
